@@ -10,8 +10,8 @@
  
   
    </p>
-    <a href="#Sobre o projeto">Sobre</a> •
-    <a href="#Tecnologias utilizadas">Tecnologias</a> • 
+    <a href="#Sobre_o_projeto">Sobre</a> •
+    <a href="#Tecnologias_utilizadas">Tecnologias</a> • 
     <a href="#Autores">Autores</a>
   </p>
   
