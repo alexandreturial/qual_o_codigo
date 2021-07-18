@@ -4,7 +4,7 @@
   <h4 align="center"> 
 	🚧  Flutter Select 🚀 Em construção...  🚧
   </h4>
-  
+
   <div align="center">
  
   ![issues Badge](https://img.shields.io/github/issues/alexandreturial/qual_o_codigo?color=%231389FD&style=flat-square)
@@ -21,13 +21,14 @@
   <h2>Sobre</h2>
   
   <p align="center">
-  
-  repositório para auxiliar desenvolvedores a encontrar funcionalidades para o desenvolvimento de suas aplicações
-  
- 
+    repositório para auxiliar desenvolvedores a encontrar funcionalidades para o desenvolvimento de suas aplicações
+  </p>
 
   <h2>Tecnologias</h2>
-
+    <ul>
+      <li href="https://flutter.dev/">Flutter</li>
+      <li href="https://firebase.google.com/">Firebase</li>
+    </ul>
   
   <h2>Autores</h2>
   
