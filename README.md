@@ -9,13 +9,13 @@
   ![stars Badge](https://img.shields.io/github/stars/alexandreturial/qual_o_codigo?color=%231389FD&style=flat-square)
  
   
-   </p>
-    <a href="#Sobre_o_projeto">Sobre</a> •
-    <a href="#Tecnologias_utilizadas">Tecnologias</a> • 
+   </p align="center">
+    <a href="#Sobre">Sobre</a> •
+    <a href="#Tecnologias">Tecnologias</a> • 
     <a href="#Autores">Autores</a>
   </p>
   
-  <h2>Sobre o projeto:</h2>
+  <h2>Sobre</h2>
   
   <p align="center">
   
@@ -23,7 +23,7 @@
   
  
 
-  <h2>Tecnologias utilizadas</h2>
+  <h2>Tecnologias</h2>
 
   
   <h2>Autores</h2>
