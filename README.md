@@ -1,13 +1,19 @@
 
-<h1  align="center">
-
-  <a  href="https://flutter.dev/">Qual o codigo?</a>
+<h1 align="center" color=""> Qual o codigo? </h1>
   
-  </h1>
+  <h4 align="center"> 
+	🚧  Flutter Select 🚀 Em construção...  🚧
+  </h4>
 
   ![issues Badge](https://img.shields.io/github/issues/alexandreturial/qual_o_codigo?color=%231389FD&style=flat-square)
   ![stars Badge](https://img.shields.io/github/stars/alexandreturial/qual_o_codigo?color=%231389FD&style=flat-square)
  
+  
+   </p>
+    <a href="#Sobre o projeto">Sobre</a> •
+    <a href="#Tecnologias utilizadas">Tecnologias</a> • 
+    <a href="#Autores">Autores</a>
+  </p>
   
   <h2>Sobre o projeto:</h2>
   
@@ -15,9 +21,12 @@
   
   repositório para auxiliar desenvolvedores a encontrar funcionalidades para o desenvolvimento de suas aplicações
   
-  </p>
+ 
+
+  <h2>Tecnologias utilizadas</h2>
+
   
-  <h2>Autores:</h2>
+  <h2>Autores</h2>
   
   <div>
   <img src="https://avatars.githubusercontent.com/u/29807033?s=400&u=3c349b78c5dbbb9f6eff2719d64a726ad77e0dc1&v=4"  width="100px;" borderRadius= "50%;" alt=""/>
