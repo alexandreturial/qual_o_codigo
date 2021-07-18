@@ -26,7 +26,10 @@
 
   <h2>Tecnologias</h2>
     <ul>
-      <li href="https://flutter.dev/">Flutter</li>
+      <li href="https://flutter.dev/">
+      <img href="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" width="15px;"/>
+      Flutter
+      </li>
       <li href="https://firebase.google.com/">Firebase</li>
     </ul>
   
