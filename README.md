@@ -6,7 +6,6 @@
   </h1>
   
   <img  src="https://img.shields.io/github/issues/alexandreturial/qual_o_codigo?color=%231389FD&style=flat-square"/>
-  
   <img  src="https://img.shields.io/github/stars/alexandreturial/qual_o_codigo?color=%231389FD&style=flat-square"/>
   
   <h2>Sobre o projeto:</h2>
@@ -26,8 +25,8 @@
   
   </div>
   
-  Feito com ❤️ por 👋🏽 Entre em contato!
-  
+  Feito com ❤️ por Alexandre Silva 👋🏽 Entre em contato!
+
   [![Linkedin Badge](https://img.shields.io/badge/-Alexandre_silva-%230c93e4?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/alexandre-silva-turial-62324a134/)
   [![Gmail Badge](https://img.shields.io/badge/-aleturial8%40gmail.com-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white&)](mailto:aleturial8@gmail.com)
 
