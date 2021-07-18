@@ -9,7 +9,7 @@
  
   ![issues Badge](https://img.shields.io/github/issues/alexandreturial/qual_o_codigo?color=%231389FD&style=flat-square)
   ![stars Badge](https://img.shields.io/github/stars/alexandreturial/qual_o_codigo?color=%231389FD&style=flat-square)
-  ![license Badge](https://img.shields.io/github/license/alexandreturial/qual_o_codigo?color=%2358a6ff&style=flat-square)
+  ![license Badge](https://img.shields.io/github/license/alexandreturial/qual_o_codigo?color=%230c93e4&style=flat-square)
  
   </div>
 
