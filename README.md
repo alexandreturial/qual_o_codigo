@@ -55,7 +55,7 @@
   
   <h2>Autores</h2>
   <div>
-    <img src="https://avatars.githubusercontent.com/u/29807033?s=400&u=3c349b78c5dbbb9f6eff2719d64a726ad77e0dc1&v=4"  width="100px;" borderRadius= "50%;" alt=""/>
+    <img styles={{border-radius:50px;}} src="https://avatars.githubusercontent.com/u/29807033?s=400&u=3c349b78c5dbbb9f6eff2719d64a726ad77e0dc1&v=4"  width="100px;" alt="Alexandre"/>
     <br />
     <sub><b>Alexandre Silva</b></sub>
   </div>
@@ -66,7 +66,7 @@
   [![Gmail Badge](https://img.shields.io/badge/-aleturial8%40gmail.com-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white&)](mailto:aleturial8@gmail.com)
 
   <div>
-    <img src="https://media-exp1.licdn.com/dms/image/C4E03AQG_GXgll2xoKQ/profile-displayphoto-shrink_200_200/0/1599840532756?e=1632355200&v=beta&t=IfGTnmQwm4HWRz05fDjbMWAtgKEmgPOXSgiIKsBvQsY"  width="100px;" borderRadius="50px;" alt=""/>
+    <img src="https://media-exp1.licdn.com/dms/image/C4E03AQG_GXgll2xoKQ/profile-displayphoto-shrink_200_200/0/1599840532756?e=1632355200&v=beta&t=IfGTnmQwm4HWRz05fDjbMWAtgKEmgPOXSgiIKsBvQsY"  width="100px;" alt="Vítor"/>
     <br />
     <sub><b>Vítor Figueiredo</b></sub>
   </div>
