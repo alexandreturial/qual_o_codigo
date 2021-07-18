@@ -5,9 +5,9 @@
   
   </h1>
 
-  ![github Badge](https://img.shields.io/github/issues/alexandreturial/qual_o_codigo?color=%231389FD&style=flat-square)
+  ![issues Badge](https://img.shields.io/github/issues/alexandreturial/qual_o_codigo?color=%231389FD&style=flat-square)
+  ![stars Badge](https://img.shields.io/github/stars/alexandreturial/qual_o_codigo?color=%231389FD&style=flat-square)
  
-  <img  src="https://img.shields.io/github/stars/alexandreturial/qual_o_codigo?color=%231389FD&style=flat-square"/>
   
   <h2>Sobre o projeto:</h2>
   
