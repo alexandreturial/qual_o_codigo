@@ -7,8 +7,8 @@
 
   <div align="center">
  
-  ![issues Badge](https://img.shields.io/github/issues/alexandreturial/qual_o_codigo?color=%231389FD&style=flat-square)
-  ![stars Badge](https://img.shields.io/github/stars/alexandreturial/qual_o_codigo?color=%231389FD&style=flat-square)
+  ![issues Badge](https://img.shields.io/github/issues/alexandreturial/qual_o_codigo?color=%231389FD?style=flat-square)
+  ![stars Badge](https://img.shields.io/github/stars/alexandreturial/qual_o_codigo?color=%231389FD?style=flat-square)
   [![license Badge](https://img.shields.io/badge/License-Apache--2.0-%231389FD?style=flat-square)](https://github.com/alexandreturial/qual_o_codigo/blob/main/LICENSE)
  
   </div>
