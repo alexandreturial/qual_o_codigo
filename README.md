@@ -14,6 +14,7 @@
 
   <p align="center">
     <a href="#Sobre">Sobre</a> •
+    <a href="#Códigos">Códigos</a> • 
     <a href="#Tecnologias">Tecnologias</a> • 
     <a href="#Autores">Autores</a>
   </p>
@@ -23,6 +24,16 @@
   <p align="center">
     repositório para auxiliar desenvolvedores a encontrar funcionalidades para o desenvolvimento de suas aplicações
   </p>
+
+  <h2>Códigos</h2>
+  <ul>
+      <li>
+        <a href="#">
+          login com o google
+        </a>
+      </li>
+    </ul>
+
 
   <h2>Tecnologias</h2>
     <ul>
@@ -42,12 +53,10 @@
     </ul>
   
   <h2>Autores</h2>
-  
   <div>
-  <img src="https://avatars.githubusercontent.com/u/29807033?s=400&u=3c349b78c5dbbb9f6eff2719d64a726ad77e0dc1&v=4"  width="100px;" borderRadius= "50%;" alt=""/>
-  <br />
-  <sub><b>Alexandre Silva</b></sub>
-  
+    <img src="https://avatars.githubusercontent.com/u/29807033?s=400&u=3c349b78c5dbbb9f6eff2719d64a726ad77e0dc1&v=4"  width="100px;" borderRadius= "50%;" alt=""/>
+    <br />
+    <sub><b>Alexandre Silva</b></sub>
   </div>
   
   Feito com ❤️ por Alexandre Silva 👋🏽 Entre em contato!
