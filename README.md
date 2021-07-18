@@ -5,7 +5,7 @@
   
   </h1>
 
-  [[github Badge](https://img.shields.io/github/issues/alexandreturial/qual_o_codigo?color=%231389FD&style=flat-square)]
+  ![github Badge](https://img.shields.io/github/issues/alexandreturial/qual_o_codigo?color=%231389FD&style=flat-square)
  
   <img  src="https://img.shields.io/github/stars/alexandreturial/qual_o_codigo?color=%231389FD&style=flat-square"/>
   
