@@ -4,12 +4,15 @@
   <h4 align="center"> 
 	🚧  Flutter Select 🚀 Em construção...  🚧
   </h4>
-
+  
+  <div align="center">
+ 
   ![issues Badge](https://img.shields.io/github/issues/alexandreturial/qual_o_codigo?color=%231389FD&style=flat-square)
   ![stars Badge](https://img.shields.io/github/stars/alexandreturial/qual_o_codigo?color=%231389FD&style=flat-square)
  
-  
-   </p align="center">
+  </div>
+
+  <p align="center">
     <a href="#Sobre">Sobre</a> •
     <a href="#Tecnologias">Tecnologias</a> • 
     <a href="#Autores">Autores</a>
