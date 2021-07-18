@@ -26,15 +26,20 @@
 
   <h2>Tecnologias</h2>
     <ul>
-      <li href="https://flutter.dev/">
-      <img src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" width="15px;"/>
-      Flutter
+      <li>
+        <a href="https://flutter.dev/">
+          <img src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" width="15px;"/>
+          Flutter
+        </a>
       </li>
-      <li href="https://firebase.google.com/">
-      <img
-        src="https://img.icons8.com/color/452/firebase.png" width="15px;"/>
-      Firebase
+      <li>
+        <a href="https://firebase.google.com/">
+          <img
+            src="https://jafapps.com.br/wp-content/uploads/2019/01/jafapps_.png" width="15px;"/>
+          Firebase
+        </a>
       </li>
+    
     </ul>
   
   <h2>Autores</h2>
