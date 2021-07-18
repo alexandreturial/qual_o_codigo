@@ -18,19 +18,18 @@
   </p>
   
   <h2>Autores:</h2>
-  ---
-  <a  href="">
   
+  <div>
   <img  style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/29807033?s=400&u=3c349b78c5dbbb9f6eff2719d64a726ad77e0dc1&v=4"  width="100px;"  alt=""/>
-  
   <br />
-  
   <sub><b>Alexandre Silva</b></sub>
   
-  </a>
+  </div>
   
   Feito com ❤️ por 👋🏽 Entre em contato!
   
+ <div style="'display: flex;'">
   [![Linkedin Badge](https://img.shields.io/badge/-Alexandre_silva-%230c93e4?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/alexandre-silva-turial-62324a134/)
   
   [![Gmail Badge](https://img.shields.io/badge/-aleturial8%40gmail.com-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white&)](mailto:aleturial8@gmail.com)
+ </div>
