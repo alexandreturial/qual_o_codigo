@@ -20,7 +20,7 @@
   <h2>Autores:</h2>
   
   <div>
-  <img src="https://avatars.githubusercontent.com/u/29807033?s=400&u=3c349b78c5dbbb9f6eff2719d64a726ad77e0dc1&v=4"  width="100px;" border-radius= "50%;" alt=""/>
+  <img src="https://avatars.githubusercontent.com/u/29807033?s=400&u=3c349b78c5dbbb9f6eff2719d64a726ad77e0dc1&v=4"  width="100px;" borderRadius= "50%;" alt=""/>
   <br />
   <sub><b>Alexandre Silva</b></sub>
   
