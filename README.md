@@ -7,8 +7,8 @@
 
   <div align="center">
  
-  [issues Badge](https://img.shields.io/github/issues/alexandreturial/qual_o_codigo?color=%231389FD&style=flat-square)
-  [stars Badge](https://img.shields.io/github/stars/alexandreturial/qual_o_codigo?color=%231389FD&style=flat-square)
+  ![issues Badge](https://img.shields.io/github/issues/alexandreturial/qual_o_codigo?color=%231389FD&style=flat-square)
+  ![stars Badge](https://img.shields.io/github/stars/alexandreturial/qual_o_codigo?color=%231389FD&style=flat-square)
   [![license Badge](https://img.shields.io/badge/License-Apache--2.0-%231389FD?style=flat-square)](https://github.com/alexandreturial/qual_o_codigo/blob/main/LICENSE)
  
   </div>
@@ -55,7 +55,7 @@
   
   <h2>Autores</h2>
   <div>
-    <img styles="border-radius:50px;" src="https://avatars.githubusercontent.com/u/29807033?s=400&u=3c349b78c5dbbb9f6eff2719d64a726ad77e0dc1&v=4"  width="100px;" alt="Alexandre"/>
+    <img styles=border-radius:50px; src="https://avatars.githubusercontent.com/u/29807033?s=400&u=3c349b78c5dbbb9f6eff2719d64a726ad77e0dc1&v=4"  width="100px;" alt="Alexandre"/>
     <br />
     <sub><b>Alexandre Silva</b></sub>
   </div>
