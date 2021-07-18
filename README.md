@@ -32,7 +32,7 @@
       </li>
       <li href="https://firebase.google.com/">
       <img
-        src="https://www.gstatic.com/devrel-devsite/prod/v3c2319be42ec37c76448426e64c5186bfb85c07b78d714f8abe2af99733028ed/firebase/images/touchicon-180.png" width="15px;"/>
+        src="https://img.icons8.com/color/452/firebase.png" width="15px;"/>
       Firebase
       </li>
     </ul>
