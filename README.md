@@ -30,7 +30,11 @@
       <img src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" width="15px;"/>
       Flutter
       </li>
-      <li href="https://firebase.google.com/">Firebase</li>
+      <li href="https://firebase.google.com/">
+      <img
+        src="https://www.gstatic.com/devrel-devsite/prod/v3c2319be42ec37c76448426e64c5186bfb85c07b78d714f8abe2af99733028ed/firebase/images/touchicon-180.png" width="15px;"/>
+      Firebase
+      </li>
     </ul>
   
   <h2>Autores</h2>
