@@ -40,11 +40,11 @@ class AuthController{
     }
   }
 
-  Future<void> removeUser(BuildContext context) async{
-    final instance = await SharedPreferences.getInstance();
-    if(instance.containsKey("user")){
-      instance.remove("user");
-    }
-     Navigator.pushReplacementNamed(context, "/login");
-  }
+  // Future<void> removeUser(BuildContext context) async{
+  //   final instance = await SharedPreferences.getInstance();
+  //   if(instance.containsKey("user")){
+  //     instance.remove("user");
+  //   }
+  //    Navigator.pushReplacementNamed(context, "/login");
+  // }
 }
