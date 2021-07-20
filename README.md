@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/images/banner.png" />
+  <img alt="Qual o codigo" title="Qual o codigo" src="https://github.com/alexandreturial/qual_o_codigo/raw/main/assets/images/banner.png" />
 </h1>
   
   <h4 align="center"> 
@@ -25,9 +25,9 @@
   <h2>Imagens</h2>
   
   <div>
-    <img alt="tela1" src="https://github.com/alexandreturial/qual_o_codigo/blob/login_com_google/assets/images/Screenshot_20210720-105600.png" />
-    <img alt="tela2"src="https://github.com/alexandreturial/qual_o_codigo/blob/login_com_google/assets/images/Screenshot_20210720-110651.png" />
-    <img alt="tela3" src="https://github.com/alexandreturial/qual_o_codigo/blob/login_com_google/assets/images/Screenshot_20210720-110800.png" />
+    <img alt="tela1" src="https://github.com/alexandreturial/qual_o_codigo/blob/login_com_google/assets/images/Screenshot_20210720-105600.png" height="height: 500px;" />
+    <img alt="tela2"src="https://github.com/alexandreturial/qual_o_codigo/blob/login_com_google/assets/images/Screenshot_20210720-110651.png" height="height: 500px;" />
+    <img alt="tela3" src="https://github.com/alexandreturial/qual_o_codigo/blob/login_com_google/assets/images/Screenshot_20210720-110800.png" height="height: 500px;" />
   </div>
 
 
