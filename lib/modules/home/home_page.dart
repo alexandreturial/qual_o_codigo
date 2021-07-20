@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:login_com_google/shared/auth/auth_controller.dart';
 import 'package:login_com_google/shared/models/user_model.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 class HomePage extends StatefulWidget {
   final UserModel user;
@@ -38,12 +39,37 @@ class _HomePageState extends State<HomePage> {
                   ),
                   Container(
                     padding: EdgeInsets.all(15),
-                    child:Text("Olá, ${widget.user.name}"),
+                    child:Text(
+                      "Olá, ${widget.user.name}",
+                      style: TextStyle(
+                        fontSize: 20,
+                      ),
+                    ),
                   )
                 ],
               ),
             ),
-            Text("para ver mais codigos acesse:")
+            Column(
+              children: [
+                Text(
+                  'Veja mais códigos em:',
+                  style: TextStyle(
+                      fontSize: 18,
+                    ),
+                ),
+                InkWell(
+                  child: new Text(
+                    'Qual o código',
+                    style: TextStyle(
+                      fontSize: 20,
+                      color: Colors.blue,
+                    ),
+                  ),
+                  onTap: () => launch('https://github.com/alexandreturial/qual_o_codigo')
+                ),
+              ],
+            )
+            
           ],
         ),
       )
