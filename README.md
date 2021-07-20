@@ -27,7 +27,7 @@
   <div>
     <img alt="tela1" src="https://github.com/alexandreturial/qual_o_codigo/blob/login_com_google/assets/images/Screenshot_20210720-105600.png" height="500px;" />
     <img alt="tela2"src="https://github.com/alexandreturial/qual_o_codigo/blob/login_com_google/assets/images/Screenshot_20210720-110651.png" height="500px;" />
-    <img alt="tela3" src="https://github.com/alexandreturial/qual_o_codigo/blob/login_com_google/assets/images/Screenshot_20210720-110800.png" height="500px;" />
+    <img alt="tela3" src="https://github.com/alexandreturial/qual_o_codigo/blob/login_com_google/assets/images/Screenshot_20210720-122152.png" height="500px;" />
   </div>
 
 
