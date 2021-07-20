@@ -13,8 +13,7 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
-    // final controller = AuthController();
-    // controller.removeUser(context);
+    
     return Scaffold(
       body: Center(
         child: Column(
