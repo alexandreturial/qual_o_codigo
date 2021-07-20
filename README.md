@@ -25,9 +25,9 @@
   <h2>Imagens</h2>
   
   <div>
-    <img alt="tela1" src="https://github.com/alexandreturial/qual_o_codigo/blob/login_com_google/assets/images/Screenshot_20210720-105600.png" height="height: 500px;" />
-    <img alt="tela2"src="https://github.com/alexandreturial/qual_o_codigo/blob/login_com_google/assets/images/Screenshot_20210720-110651.png" height="height: 500px;" />
-    <img alt="tela3" src="https://github.com/alexandreturial/qual_o_codigo/blob/login_com_google/assets/images/Screenshot_20210720-110800.png" height="height: 500px;" />
+    <img alt="tela1" src="https://github.com/alexandreturial/qual_o_codigo/blob/login_com_google/assets/images/Screenshot_20210720-105600.png" height="500px;" />
+    <img alt="tela2"src="https://github.com/alexandreturial/qual_o_codigo/blob/login_com_google/assets/images/Screenshot_20210720-110651.png" height="500px;" />
+    <img alt="tela3" src="https://github.com/alexandreturial/qual_o_codigo/blob/login_com_google/assets/images/Screenshot_20210720-110800.png" height="500px;" />
   </div>
 
 
@@ -50,7 +50,7 @@
   
   <h2>Autor</h2>
   <div>
-    <img styles=border-radius:50px; src="https://avatars.githubusercontent.com/u/29807033?s=400&u=3c349b78c5dbbb9f6eff2719d64a726ad77e0dc1&v=4"  width="100px;" alt="Alexandre"/>
+    <img styles=border-radius:50px; src="https://avatars.githubusercontent.com/u/29807033?s=400&u=3c349b78c5dbbb9f6eff2719d64a726ad77e0dc1&v=4" width="100px;" alt="Alexandre"/>
     <br />
     <sub><b>Alexandre Silva</b></sub>
   </div>
