@@ -22,12 +22,15 @@ class MyThemes{
       foregroundColor: Colors.white,
     ),
 
-    toggleableActiveColor: AppColors.purple,
+    toggleableActiveColor: AppColors.iconButton,
     
     bannerTheme: MaterialBannerThemeData(
       backgroundColor: AppColors.iconButton
+    ),
+
+    iconTheme: IconThemeData(
+      color: AppColors.iconButton
     )
-    
   );
 
   static final lightTheme = ThemeData(
@@ -35,12 +38,17 @@ class MyThemes{
     colorScheme: ColorScheme.light(),
     
     floatingActionButtonTheme: FloatingActionButtonThemeData(
-      backgroundColor: AppColors.purplelight,
+      backgroundColor: AppColors.purple,
       foregroundColor:  Colors.white,
     ),
 
     appBarTheme: AppBarTheme(
-      backgroundColor: AppColors.purplelight
+      backgroundColor: AppColors.purple
+    ),
+
+    primaryColor: AppColors.purple,
+    iconTheme: IconThemeData(
+      color: AppColors.primaryLight
     )
   );
 }
