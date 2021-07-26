@@ -18,7 +18,7 @@
   <h2>Sobre</h2>
   
   <p align="center">
-    Aplicação em flutter de login com conta da google utilizando firebase como autenticação.
+    Aplicação em flutter de de mudança de thema do app.
   </p>
 
   <h2>Imagens</h2>
@@ -35,13 +35,6 @@
         <a href="https://flutter.dev/">
           <img src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" width="15px;"/>
           Flutter
-        </a>
-      </li>
-      <li>
-        <a href="https://firebase.google.com/">
-          <img
-            src="https://img.icons8.com/color/452/firebase.png" width="15px;"/>
-          Firebase
         </a>
       </li>
     </ul>
