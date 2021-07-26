@@ -1,9 +1,13 @@
 import 'package:dark_theme/shared/providers/theme_provider.dart';
 import 'package:dark_theme/shared/widget/change_theme_button_widget.dart';
 import 'package:dark_theme/shared/widget/navigator_bar_widget.dart';
+
+import 'package:url_launcher/url_launcher.dart';
+
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:url_launcher/url_launcher.dart';
+
+
 
 class HomePage extends StatelessWidget {
   const HomePage({ Key? key }) : super(key: key);
@@ -13,12 +17,12 @@ class HomePage extends StatelessWidget {
     final themeProvider = Provider.of<ThemeProvider>(context);
 
     final String text = themeProvider.isDarkMode
-                ? 'Dark Theme' :
-                  'Light Theme';
+                ? 'Dark' :
+                  'Light';
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('Theme Dark'),
+        title: Text('Theme $text'),
         actions: [
           ChangeThemeButtonWidget(),
         ],
@@ -27,12 +31,11 @@ class HomePage extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Text(
-              'Hello $text',
-              style: TextStyle(
-                fontSize: 32,
-                fontWeight: FontWeight.bold
-              ),
+            Image.asset(
+              "assets/images/logo.png",
+              width: 250,
+              height: 250,
+              color: Theme.of(context).highlightColor,
             ),
             Column(
               children: [
@@ -44,7 +47,7 @@ class HomePage extends StatelessWidget {
                 ),
                 InkWell(
                   child: new Text(
-                    'Qual o código',
+                    'Qual o código ?',
                     style: TextStyle(
                       fontSize: 20,
                       color: Theme.of(context).errorColor,

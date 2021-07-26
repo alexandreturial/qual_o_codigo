@@ -8,6 +8,9 @@ class AppColors {
   static final Color purplelight = Color(0xFF8257E5);
   static final Color purple = Color(0xFF5633b5);
 
+  //blue
+  static final Color blue = Color(0xFF646ecb);
+  
   //icons
   static final Color iconButton = Color(0xFFaeb9d6);
   static final Color textpink = Color(0xFFa33e97);

@@ -18,7 +18,8 @@ class MyThemes{
     colorScheme: ColorScheme.dark(),
     toggleableActiveColor: AppColors.iconButton,
     errorColor: AppColors.alert,
-    
+    highlightColor: AppColors.alert,
+
     floatingActionButtonTheme: FloatingActionButtonThemeData(
       backgroundColor: AppColors.purple,
       foregroundColor: Colors.white,
@@ -36,8 +37,9 @@ class MyThemes{
   static final lightTheme = ThemeData(
     scaffoldBackgroundColor: AppColors.primaryLight,
     colorScheme: ColorScheme.light(),
-    primaryColor: AppColors.purple,
+    primaryColor: AppColors.blue,
     errorColor: AppColors.alert,
+    highlightColor: AppColors.alert,
 
     floatingActionButtonTheme: FloatingActionButtonThemeData(
       backgroundColor: AppColors.purple,
@@ -45,7 +47,7 @@ class MyThemes{
     ),
 
     appBarTheme: AppBarTheme(
-      backgroundColor: AppColors.purple
+      backgroundColor: AppColors.blue
     ),
     
     iconTheme: IconThemeData(
