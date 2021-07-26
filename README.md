@@ -23,7 +23,7 @@
 
   <h2>Imagens</h2>
   
-  <div>
+  <div align="center">
     <img alt="tela1" src="https://github.com/alexandreturial/qual_o_codigo/blob/theme_dark/assets/images/img1.png" height="500px;" />
    <img alt="tela1" src="https://github.com/alexandreturial/qual_o_codigo/blob/theme_dark/assets/images/img2.png" height="500px;" />
   </div>
