@@ -3,6 +3,7 @@ import 'package:dark_theme/shared/widget/change_theme_button_widget.dart';
 import 'package:dark_theme/shared/widget/navigator_bar_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({ Key? key }) : super(key: key);
@@ -33,6 +34,26 @@ class HomePage extends StatelessWidget {
                 fontWeight: FontWeight.bold
               ),
             ),
+            Column(
+              children: [
+                Text(
+                  'Veja mais códigos em:',
+                  style: TextStyle(
+                      fontSize: 18,
+                    ),
+                ),
+                InkWell(
+                  child: new Text(
+                    'Qual o código',
+                    style: TextStyle(
+                      fontSize: 20,
+                      color: Theme.of(context).errorColor,
+                    ),
+                  ),
+                  onTap: () => launch('https://github.com/alexandreturial/qual_o_codigo')
+                ),
+              ],
+            )
           ],
         ),
       ),
