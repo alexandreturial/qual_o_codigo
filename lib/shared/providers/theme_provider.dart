@@ -27,6 +27,7 @@ class MyThemes{
     bannerTheme: MaterialBannerThemeData(
       backgroundColor: AppColors.iconButton
     )
+    
   );
 
   static final lightTheme = ThemeData(

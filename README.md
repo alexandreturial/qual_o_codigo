@@ -37,6 +37,11 @@
           Flutter
         </a>
       </li>
+      <li>
+        <a href="https://pub.dev/packages/provider">
+          Provider
+        </a>
+      </li>
     </ul>
   
   <h2>Autor</h2>
