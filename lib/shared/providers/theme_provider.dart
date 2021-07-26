@@ -1,3 +1,4 @@
+import 'package:dark_theme/shared/themes/app_colors.dart';
 import 'package:flutter/material.dart';
 
 class ThemeProvider extends ChangeNotifier{
@@ -13,19 +14,32 @@ class ThemeProvider extends ChangeNotifier{
 
 class MyThemes{
   static final darkTheme = ThemeData(
-    scaffoldBackgroundColor: Colors.grey.shade900,
+    scaffoldBackgroundColor: AppColors.primaryDark,
     colorScheme: ColorScheme.dark(),
+    
     floatingActionButtonTheme: FloatingActionButtonThemeData(
-      backgroundColor: Colors.purple,
+      backgroundColor: AppColors.purple,
+      foregroundColor: Colors.white,
     ),
-    toggleableActiveColor: Colors.purple,
+
+    toggleableActiveColor: AppColors.purple,
+    
+    bannerTheme: MaterialBannerThemeData(
+      backgroundColor: AppColors.iconButton
+    )
   );
 
   static final lightTheme = ThemeData(
-    scaffoldBackgroundColor: Colors.white,
+    scaffoldBackgroundColor: AppColors.primaryLight,
     colorScheme: ColorScheme.light(),
+    
     floatingActionButtonTheme: FloatingActionButtonThemeData(
-      backgroundColor: Colors.white
+      backgroundColor: AppColors.purplelight,
+      foregroundColor:  Colors.white,
     ),
+
+    appBarTheme: AppBarTheme(
+      backgroundColor: AppColors.purplelight
+    )
   );
 }
