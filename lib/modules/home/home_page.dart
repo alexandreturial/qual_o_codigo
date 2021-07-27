@@ -35,6 +35,7 @@ class HomePage extends StatelessWidget {
               "assets/images/logo.png",
               width: 250,
               height: 250,
+              //busca o valor da cor dentro do theme
               color: Theme.of(context).highlightColor,
             ),
             Column(
@@ -50,6 +51,7 @@ class HomePage extends StatelessWidget {
                     'Qual o código ?',
                     style: TextStyle(
                       fontSize: 20,
+                      //busca o valor da cor dentro do theme
                       color: Theme.of(context).errorColor,
                     ),
                   ),

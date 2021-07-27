@@ -14,13 +14,13 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) => ChangeNotifierProvider(
     create: (context) => ThemeProvider(),
     builder: (context, _){
+       //inicializa o theme provider
       final themeProvider = Provider.of<ThemeProvider>(context);
       
       return MaterialApp(
         title: 'Flutter Demo',
+        //Adiciona o valor inicial do tema escolhido na classe ThemeProvider
         themeMode: themeProvider.themeMode,
-        theme: MyThemes.lightTheme,
-        darkTheme: MyThemes.darkTheme,
         home: HomePage(),
       );
     }
