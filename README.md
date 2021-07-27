@@ -18,7 +18,7 @@
   <h2>Sobre</h2>
   
   <p align="center">
-    Aplicação em flutter de de mudança de thema do app.
+    Exemplo de aplicação em flutter da mudança de tema de apps com a utilização de providers.
   </p>
 
   <h2>Imagens</h2>
